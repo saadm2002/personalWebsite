@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+}
+
+#jumboContainer {
+    margin-top: 70px;
+}
+
+.jumbotron {
+    background-color: black;
+    color: white;
+}
+
+#jumboContainer img {
+    height: 220px;
+    width: 306px;
+    border-radius: 8px;
+}
