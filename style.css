@@ -17,3 +17,13 @@ body {
     width: 306px;
     border-radius: 8px;
 }
+
+.brightness {
+    filter: brightness(170%);
+}
+
+#icons {
+    position: relative;
+    left: 850px;
+    bottom: 330px;
+}
