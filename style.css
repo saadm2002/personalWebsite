@@ -27,3 +27,18 @@ body {
     left: 850px;
     bottom: 330px;
 }
+
+ul#contact li {
+    color: white;
+    margin-left: 15px;
+    display:inline;
+    padding: 10px 100px;
+    position: relative;
+    bottom: -35px;
+}
+
+#contacticons {
+position: relative;
+left: 900px;
+bottom: 20px;
+}
