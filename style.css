@@ -28,6 +28,12 @@ body {
     bottom: 330px;
 }
 
+#projects {
+    margin-top: -60px;
+    position: relative;
+    bottom: 200px;
+}
+
 ul#contact li {
     color: white;
     margin-left: 15px;
@@ -41,4 +47,8 @@ ul#contact li {
 position: relative;
 left: 900px;
 bottom: 20px;
+}
+
+.page-footer {
+    margin-top: -150px;
 }
