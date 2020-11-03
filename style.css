@@ -13,13 +13,14 @@ body {
 }
 
 #jumboContainer img {
-    height: 220px;
-    width: 306px;
+    margin-left: -30px;
+    height: 239.33px;
+    width: 360px;
     border-radius: 8px;
 }
 
 .brightness {
-    filter: brightness(170%);
+    filter: brightness(150%);
 }
 
 #icons {
