@@ -29,10 +29,16 @@ body {
     bottom: 330px;
 }
 
-#projects {
+#projects1 {
     margin-top: -60px;
     position: relative;
     bottom: 200px;
+}
+
+#projects2 {
+    position: relative;
+    left: 600px;
+    bottom: 460px;
 }
 
 ul#contact li {
@@ -51,5 +57,5 @@ bottom: 20px;
 }
 
 .page-footer {
-    margin-top: -150px;
+    margin-top: -400px;
 }
