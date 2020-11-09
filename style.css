@@ -3,8 +3,8 @@ body {
     font-family: Tahoma, Geneva, sans-serif;
 }
 
-#jumboContainer {
-    margin-top: 70px;
+ #jumboContainer {
+    margin-top: 20px;
 }
 
 .jumbotron {
@@ -14,8 +14,6 @@ body {
 
 #jumboContainer img {
     margin-left: -30px;
-    height: 239.33px;
-    width: 360px;
     border-radius: 8px;
 }
 
@@ -28,7 +26,7 @@ body {
     bottom: 330px;
 }
 
-#projects1 {
+#projects {
     margin-top: -60px;
     position: relative;
     bottom: 200px;
