@@ -17,10 +17,6 @@ body {
     border-radius: 8px;
 }
 
-.brightness {
-    filter: brightness(150%);
-}
-
 #icons {
     position: relative;
     bottom: 330px;
